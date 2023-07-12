@@ -3,11 +3,11 @@
 import setMetadata from "@/shared/consts/setMetaData";
 
 export const metadata = setMetadata({
-    title: "CV"
+    title: "Recommendations"
 });
 
-export default function PageCv() {
+export default function PageRecommendations() {
     return (
-        <h1>Page CV</h1>
+        <h1>Recommendations</h1>
     )
 }
